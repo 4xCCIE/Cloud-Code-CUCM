@@ -1,0 +1,5 @@
+### Requirements (requirements.txt)
+zeep
+lxml
+requests
+requests-toolbelt
